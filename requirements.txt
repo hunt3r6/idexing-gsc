@@ -1,0 +1,7 @@
+google-api-python-client
+oauth2client
+rfc3339
+mysql-connector-python
+urllib3
+beautifulsoup4
+python-dateutil
